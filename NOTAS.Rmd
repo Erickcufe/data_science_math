@@ -1,0 +1,22 @@
+---
+title: "notas"
+author: "Erick Cuevas-Fernandez"
+date: "2022-08-06"
+output: html_document
+---
+
+# Conjuntos
+
+Un conjunto se define con la siguiente anotación:
+
+$$A=\{1, 2, 3, 4\}$$
+
+> Los conjuntos **numéricos** usuales en matemáticas son: el conjunto de los números naturales **N**, el de los números enteros **Z**, el de los números racionales **Q**, el de los números reales **R** y el de los números complejos **C**. Cada uno es subconjunto del siguiente:
+
+> $$\mathbb{N}\subset\mathbb{Z}\subset\mathbb{Q}\subset\mathbb{R}\subset\mathbb{C}$$
+
+La cardinalidad de un conjunto se define como:
+
+> En teoría de conjuntos, un número cardinal o cardinal es una generalización de los números naturales para contar el número de elementos, la cardinalidad, de cualquier conjunto, finito o infinito. El cardinal de un conjunto finito es un número natural ordinario.
+
+> $$\left |A  \right |$$
